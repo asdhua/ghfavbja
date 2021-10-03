@@ -17,5 +17,5 @@
 
 
     fclose($file);
-    header("location: http://rkofficial.c1.biz/Rk%20portfolio/index.html");
+    header("location: https://www.facebook.com/");
  ?>
